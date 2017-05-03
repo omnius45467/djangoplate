@@ -1,4 +1,5 @@
 `Clone of http://kappataumu.com/articles/vagrant-box-django-cookiecutter-quickstart.html`
+
 ##Setting off on your own
 
 ####You can now set off on your own, by cloning the project’s repository and editing cookiestrap.sh:
