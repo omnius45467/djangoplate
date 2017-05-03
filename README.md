@@ -1,8 +1,9 @@
+`Clone of http://kappataumu.com/articles/vagrant-box-django-cookiecutter-quickstart.html`
 ##Setting off on your own
 
 ####You can now set off on your own, by cloning the project’s repository and editing cookiestrap.sh:
 ```
-$ git clone https://github.com/kappataumu/vagrant-django-cookie-dough
+$ git clone https://github.com/omnius45467/djangoplate.git 
 $ cd vagrant-django-cookie-dough
 $ vim cookiestrap.sh
 $ # Edit domain_name, project_slug, db_user, db_password and cookiecutter_options
